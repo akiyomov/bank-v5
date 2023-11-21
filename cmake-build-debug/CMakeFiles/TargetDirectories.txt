@@ -1,0 +1,3 @@
+/home/asadbek/CLionProjects/Bank05/cmake-build-debug/CMakeFiles/Bank05.dir
+/home/asadbek/CLionProjects/Bank05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asadbek/CLionProjects/Bank05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
